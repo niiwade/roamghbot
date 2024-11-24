@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b66c9f4.css",
+    "main.js": "/static/js/main.0ca6ed18.js",
+    "static/media/personal.jpg": "/static/media/personal.874b67b51deb472be2d3.jpg",
+    "static/media/consulting.jpg": "/static/media/consulting.751085b8c60fe1224d45.jpg",
+    "static/media/enterprise.jpg": "/static/media/enterprise.015f17b4d19bfe431eae.jpg",
+    "static/media/startup.jpg": "/static/media/startup.eee7d59b7638d002252d.jpg",
+    "static/media/training.jpg": "/static/media/training.e80de15d718d2e55531c.jpg",
+    "index.html": "/index.html",
+    "main.3b66c9f4.css.map": "/static/css/main.3b66c9f4.css.map",
+    "main.0ca6ed18.js.map": "/static/js/main.0ca6ed18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b66c9f4.css",
+    "static/js/main.0ca6ed18.js"
+  ]
+}
